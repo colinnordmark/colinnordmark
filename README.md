@@ -19,7 +19,7 @@ A one day project where I learned how to use Tailwind and Next.js. [Find it here
 ## Skills
 
 <p align="center" ><img align="center"
-    src="https://skillicons.dev/icons?i=java,nextjs,tailwind,vercel,vite,jest,spring,ts,mongodb,react,express,nodejs,html,css,github,postman,vscode,docker,postgresql,cs,unity,git,(https://skillicom.dev"></p>
+    src="https://skillicons.dev/icons?i=java,nextjs,tailwind,vercel,vite,jest,spring,ts,mongodb,react,nodejs,html,css,github,postman,vscode,docker,postgresql,cs,unity,git,(https://skillicom.dev"></p>
 
 ## Public
 <a href="https://github.com/anuraghazra/github-readme-stats">
