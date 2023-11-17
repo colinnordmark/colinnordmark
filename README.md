@@ -3,7 +3,6 @@
 I'm Colin Nordmark, a Java full-stack developer with a passion for software design, 3D and new technologies.
 - [Send me a message](https://www.linkedin.com/in/colinnordmark/)
 
----
 
 ## What I'm currently using
 - Spring framework
@@ -17,11 +16,18 @@ I'm Colin Nordmark, a Java full-stack developer with a passion for software desi
 A one day project where I learned how to use Tailwind and Next.js. [Find it here](https://github.com/colinnordmark/hackday-colinnordmark-frontend)
 
 ---
-
-## GitHub Stats
+## Skills
 
 <p align="center" ><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=colinnordmark&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"></p> 
+    src="https://skillicons.dev/icons?i=java,nextjs,tailwind,vercel,vite,jest,spring,ts,mongodb,react,express,nodejs,html,css,github,postman,vscode,docker,postgresql,cs,unity,git,(https://skillicom.dev"></p>
+
+## Public
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=colinnordmark&include_all_commits&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinnordmark&layout=donut&theme=github_dark" />
+</a>
 
 ---
 
