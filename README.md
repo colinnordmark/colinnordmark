@@ -9,13 +9,11 @@ I'm Colin Nordmark, a Java full-stack developer with a passion for software desi
 - React (Next.js)
 - Azure (SQL)
 
----
 
 ## Projects
 ### - Note-pad
 A one day project where I learned how to use Tailwind and Next.js. [Find it here](https://github.com/colinnordmark/hackday-colinnordmark-frontend)
 
----
 ## Skills
 
 <p align="center" ><img align="center"
