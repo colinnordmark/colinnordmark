@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm Colin Nordmark, a Java full-stack developer with a passion for software design, 3D and new technologies.
+I'm Colin Nordmark, a Java full-stack developer with a passion for code, game development, 3D and new technologies.
 - [Send me a message](https://www.linkedin.com/in/colinnordmark/)
 
 
