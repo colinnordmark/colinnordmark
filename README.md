@@ -7,7 +7,7 @@ I'm Colin Nordmark, a Java full-stack developer with a passion for code, game de
 ## What I'm currently using
 - Spring framework
 - React (Next.js)
-- Azure (SQL)
+- Azure (Webservices)
 
 
 ## Projects
